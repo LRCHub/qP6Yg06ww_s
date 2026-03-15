@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ストラトキャスター・シーサイド",
+  "base_artist": "Suspended 4th",
+  "createdAt": "2026-03-15T09:41:32.179930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ストラトキャスター　シーサイド",
+      "artist": "Suspended 4th",
+      "has_synced": true,
+      "path": "select/01_ストラトキャスター_シーサイド_Suspended_4th.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストラトキャスター・シーサイド",
+      "artist": "Suspended 4th",
+      "has_synced": false,
+      "path": "select/pl_01_ストラトキャスター・シーサイド_Suspended_4th.txt"
+    }
+  ]
+}
